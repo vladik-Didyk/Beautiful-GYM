@@ -7,7 +7,7 @@ import "./navbar.css";
 const NavBar = () => {
   return (
     <nav>
-      <div className=".container nav__container">
+      <div className="container nav__container">
         <Link to={"/"} className="logo">
           <img src={Logo} alt="Nav Logo" />
         </Link>
