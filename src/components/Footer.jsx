@@ -57,7 +57,7 @@ const Footer = () => {
         </article>
         <article>
           <h4>Insights</h4>
-          <Link to="/s">About</Link>
+          <Link to="/s">Blog</Link>
           <Link to="/s">Case Studies</Link>
           <Link to="/s">Events</Link>
           <Link to="/s">Communities</Link>
