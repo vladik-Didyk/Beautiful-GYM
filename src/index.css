@@ -227,6 +227,8 @@ section {
     .header__content {
         width: 76%;
     }
+
+    
 }
 
 /* MEEDIA QUERIES (small screens) */
@@ -251,6 +253,6 @@ section {
     }
 
     .header__content p {
-        font-size: 0.85;
+        font-size: 0.85rem;
     }
 }
