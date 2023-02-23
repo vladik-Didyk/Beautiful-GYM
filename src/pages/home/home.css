@@ -227,7 +227,7 @@
 footer {
     background: var(--color-primary);
     margin-top: 7rem;
-    padding-top: 7rem;
+    padding: 7rem 0;
     font-size: 0.9rem;
     color: var(--color-gray-100);
 }
@@ -283,7 +283,7 @@ footer {
 
 @media screen and (max-width: 1024px) {
 
-      /* MAIN HEADER */
+    /* MAIN HEADER */
     .main__header {
         height: fit-content;
         padding: 12rem 0;
